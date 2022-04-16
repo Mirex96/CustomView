@@ -16,13 +16,13 @@
             android:id="@+id/edit_query"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="enter 1" />
+            android:ems="5" />
 
         <EditText
             android:id="@+id/edit_query2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="enter 2" />
+            android:ems="5" />
 
         <TextView
             android:id="@+id/text"

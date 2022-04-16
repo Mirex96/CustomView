@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         val editText2 = findViewById<EditText>(R.id.edit_query2)
         val textView = findViewById<TextView>(R.id.text)
         val button = findViewById<Button>(R.id.dialog_button)
-        val buttonEnable = findViewById<Button>(androidx.constraintlayout.widget.R.id.end)
+        val buttonEnable = findViewById<Button>(R.id.end)
 
 
 
