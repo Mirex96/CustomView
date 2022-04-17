@@ -3,8 +3,7 @@
     <declare-styleable name="ImageEditTextButtonLayout">
         <attr name="image" format="reference"/>
         <attr name="text" format="string"/>
-        <attr name="edit" format="string" />
-        <attr name="edit2" format="string"/>
+
 
 
     </declare-styleable>
